@@ -60,7 +60,7 @@
     .nav {
       display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 1rem; padding: .75rem 0;
     }
-    .brand { font-family: Quicksand; display: flex; align-items: center; gap: .6rem; font-weight: 800; letter-spacing: .4px; }
+    .brand { font-family: Quicksand; font-style: bold; display: flex; align-items: center; gap: .6rem; font-weight: 800; letter-spacing: .4px; }
     .brand svg { width: 28px; height: 28px; }
     nav ul { list-style: none; display: flex; gap: 1rem; padding: 0; margin: 0; justify-content: center; }
     nav a { padding: .5rem .8rem; border-radius: 8px; color: var(--muted); }
